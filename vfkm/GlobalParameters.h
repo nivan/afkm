@@ -1,0 +1,6 @@
+#ifndef GLOBALPARAMETERS_H
+#define GLOBALPARAMETERS_H
+
+#define VECTOR_TYPE double
+
+#endif // GLOBALPARAMETERS_H
